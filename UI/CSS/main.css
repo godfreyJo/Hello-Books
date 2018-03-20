@@ -126,3 +126,9 @@ font-size: 50px;
 	font-size:15px;
 
 }
+a {
+    color: #f3f4f5;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
