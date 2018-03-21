@@ -163,11 +163,7 @@ img {
     text-align: center;
     font-family: roboto;
 }
-/* #login_registration_page {
-    width: 450px;
-    padding: 0 0;
-    margin: auto;
-} */
+
 .form-log {
     position: relative;
     z-index: 1;
