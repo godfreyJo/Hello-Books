@@ -142,3 +142,19 @@ ul, menu, dir {
     -webkit-margin-end: 0px;
     -webkit-padding-start: 0px;
 }
+img {
+    border-radius: 1em;
+    box-shadow: 1px 2px 5px, white;
+    width:9.5em
+}
+.bookimageinhome {
+    border-radius: 1em;
+    box-shadow: 1px 2px 5px, white;
+    width: 9.5em;
+}
+.col-sm-{
+    padding: 0 1.1em;
+	text-align: center;
+}
+
+
